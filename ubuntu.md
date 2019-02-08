@@ -7,12 +7,6 @@
     # Example 
     ls > ls.txt (Will store the output of ls into ls.txt)
 
-### STDIN (Standard Input) ###
-    Write the output of a programme into a file
-    >
-    # Example 
-    ls > ls.txt (Will store the output of ls into ls.txt)
-
 ```
 
 # File Management
