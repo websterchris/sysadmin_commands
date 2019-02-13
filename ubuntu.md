@@ -9,6 +9,17 @@
 
 ```
 
+# Cron Jobs
+
+``` bash
+# View Root's Cron Jobs
+crontab -l
+
+# View a user's Cron Jobs
+crontab -u {user} -l
+
+```
+
 # File Management
 ``` bash
 
